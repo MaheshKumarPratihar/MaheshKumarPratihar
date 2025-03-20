@@ -2,7 +2,7 @@
 
 ### Working On
 - Information System Software Engineering at the Vilnius Tech University(LT)
-- Backend Developer (SpringBoot, Quarkus, J2ee) at AllMind.
+- Middle Software Engineer at EPAM.
 ### About Me
 - Master Student in Information Systems Software Engineering at [Vilnius Tech](https://vilniustech.lt/) 🎓
 - Completed Bachelor in Computer Engineering from [Politecnico di Torino(IT)](https://www.polito.it/en) 🎓
