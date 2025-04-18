@@ -1,10 +1,13 @@
 ## Hello, I'm Mahesh 😄
 
-### Working On
+### Working On 🔭
 - Information System Software Engineering at the Vilnius Tech University(LT)
-- Middle Software Engineer at EPAM.
+- Middle Software Engineer at `EPAM`.
+### 🌱 Currently learning 
+- Kubernetes/KubeRocketCI
+- AWS developer
 ### About Me
-- Master Student in Information Systems Software Engineering at [Vilnius Tech](https://vilniustech.lt/) 🎓
+- Master's Student in `Information Systems Software Engineering` at [Vilnius Tech](https://vilniustech.lt/) 🎓
 - Completed Bachelor in Computer Engineering from [Politecnico di Torino(IT)](https://www.polito.it/en) 🎓
 - Interested in Software development, Java Java-related technologies, JavaScript
 - Basketball 🏀 & High-tech sports fan 🏎️ 🏍️ ⛵
@@ -16,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshKumarPratihar&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-  
+📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/MaheshKumarPratihar/)
 <!--
 **MaheshKumarPratihar/MaheshKumarPratihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
