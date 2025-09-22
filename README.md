@@ -2,10 +2,10 @@
 
 ### Working On 🔭
 - Information System Software Engineering at the Vilnius Tech University(LT)
-- Middle Software Engineer at `EPAM`.
+- Java Software Engineer at [Wallee](https://en.wallee.com/).
 ### 🌱 Currently learning 
 - Kubernetes/KubeRocketCI
-- AWS developer
+- AWS developer course
 ### About Me
 - Master's Student in `Information Systems Software Engineering` at [Vilnius Tech](https://vilniustech.lt/) 🎓
 - Completed Bachelor in Computer Engineering from [Politecnico di Torino(IT)](https://www.polito.it/en) 🎓
