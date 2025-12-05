@@ -1,5 +1,7 @@
 ## Hello, I'm Mahesh 😄
 
+[Check my profile here](https://maheshkumarpratihar.github.io/profile/)
+
 ### Working On 🔭
 - Information System Software Engineering at the Vilnius Tech University(LT)
 - Java Software Engineer at [Wallee](https://en.wallee.com/).
@@ -14,11 +16,7 @@
 - Traveller & Reader 📚
 - [Portfoglio](https://www.crio.do/learn/portfolio/maheshkumarpratihar/)
 - [LinkedIn](https://www.linkedin.com/in/MaheshKumarPratihar/)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshKumarPratihar&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshKumarPratihar&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
+- 
 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/MaheshKumarPratihar/)
 <!--
 **MaheshKumarPratihar/MaheshKumarPratihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
