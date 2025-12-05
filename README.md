@@ -16,7 +16,8 @@
 - Traveller & Reader 📚
 - [Portfoglio](https://www.crio.do/learn/portfolio/maheshkumarpratihar/)
 - [LinkedIn](https://www.linkedin.com/in/MaheshKumarPratihar/)
-- 
+
+  
 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/MaheshKumarPratihar/)
 <!--
 **MaheshKumarPratihar/MaheshKumarPratihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
