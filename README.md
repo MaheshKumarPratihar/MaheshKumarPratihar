@@ -16,6 +16,9 @@
 - Traveller & Reader 📚
 - [Portfoglio](https://www.crio.do/learn/portfolio/maheshkumarpratihar/)
 - [LinkedIn](https://www.linkedin.com/in/MaheshKumarPratihar/)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="maheshkumarpratihar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lt.linkedin.com/in/maheshkumarpratihar?trk=profile-badge">Mahesh Kumar Pratihar</a></div>
+              
  
 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/MaheshKumarPratihar/)
 <!--
