@@ -1,6 +1,6 @@
 ## Hello, I'm Mahesh 😄
 
-[Check my profile here](https://maheshkumarpratihar.github.io/profile/)
+[Check my profile here]((https://maheshkumarpratihar.github.io/careerprofile/))
 
 ### Working On 🔭
 - Information System Software Engineering at the Vilnius Tech University(LT)
