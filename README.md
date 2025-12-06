@@ -14,7 +14,7 @@
 - Interested in Software development, Java Java-related technologies, JavaScript
 - Basketball 🏀 & High-tech sports fan 🏎️ 🏍️ ⛵
 - Traveller & Reader 📚
-- [Portfoglio](https://www.crio.do/learn/portfolio/maheshkumarpratihar/)
+- [Portfolio](https://www.crio.do/learn/portfolio/maheshkumarpratihar/)
 - [LinkedIn](https://www.linkedin.com/in/MaheshKumarPratihar/)
               
  
