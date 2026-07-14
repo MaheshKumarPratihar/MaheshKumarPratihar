@@ -5,7 +5,7 @@
 ### Working On 🔭
 - Java Software Engineer at [Wallee](https://en.wallee.com/)
 ### 🌱 Currently learning 
-- Kubernetes/KubeRocketCI
+- System Design and DSA
 - AWS developer course
 ### About Me
 - Completed Master's in `Information Systems Software Engineering` from [Vilnius Tech](https://vilniustech.lt/) 🎓
