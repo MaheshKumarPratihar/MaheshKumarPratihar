@@ -3,15 +3,14 @@
 # [Check my profile here](https://maheshkumarpratihar.github.io/careerprofile/)
 
 ### Working On 🔭
-- Information System Software Engineering at the Vilnius Tech University(LT)
-- Java Software Engineer at [Wallee](https://en.wallee.com/).
+- Java Software Engineer at [Wallee](https://en.wallee.com/)
 ### 🌱 Currently learning 
 - Kubernetes/KubeRocketCI
 - AWS developer course
 ### About Me
-- Master's Student in `Information Systems Software Engineering` at [Vilnius Tech](https://vilniustech.lt/) 🎓
-- Completed Bachelor in Computer Engineering from [Politecnico di Torino(IT)](https://www.polito.it/en) 🎓
-- Interested in Software development, Java Java-related technologies, JavaScript
+- Completed Master's in `Information Systems Software Engineering` from [Vilnius Tech](https://vilniustech.lt/) 🎓
+- Completed Bachelor in `Computer Engineering` from [Politecnico di Torino(IT)](https://www.polito.it/en) 🎓
+- Interested in Software development, Java, Microservices, AI
 - Basketball 🏀 & High-tech sports fan 🏎️ 🏍️ ⛵
 - Traveller & Reader 📚
 - [Portfolio](https://www.crio.do/learn/portfolio/maheshkumarpratihar/)
